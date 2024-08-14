@@ -1,0 +1,6 @@
+# ignore ALL .log files
+
+# ignore ALL files in ANY directory named temp
+__pychache__/
+.ipynb_checkpoints/
+
