@@ -40,6 +40,7 @@ Paraméterbecslés dinamikusan változó hipergráfokon
 Tegyük fel, hogy a hiperélek bizonyos valószínűséggel felbomlanak, a csúcsok átkerülhetnek egy másik hiperélbe, és a felbomlás valószínűsége akkor a legnagyobb, ha a csúcs egyedül marad a véleményével a csoportjában. 
 
 KÉRDÉS:
+
 hogyan tudjuk megbecsülni terjedési rátát, illetve a csoportok felbomlásának valószínűségét, mint ismeretlen paramétereket, az összesített statisztikákból, vagyis az adott véleménnyel rendelkező csúcsok számából, és esetleg egyéb, könnyen megfigyelhető statisztikákból?
 
 
